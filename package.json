@@ -1,0 +1,12 @@
+{
+  "name": "taxi-irapuato-bot",
+  "version": "1.0.0",
+  "description": "Bot de Telegram para Taxi Irapuato",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0"
+  }
+}
